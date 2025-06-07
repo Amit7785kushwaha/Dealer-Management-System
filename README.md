@@ -1,6 +1,7 @@
 # Welcome to your Lovable project
 
 ## Project info
+![image](https://github.com/user-attachments/assets/97175664-2bba-49f3-afc3-7fe7abb0a2d7)
 ![Uploading image.png…]()
 
 
