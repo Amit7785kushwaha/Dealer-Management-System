@@ -22,8 +22,8 @@ const DealerService = () => {
     {
       id: 1,
       name: 'TechZone Electronics',
-      location: 'New York, NY',
-      phone: '+1 (555) 123-4567',
+      location: 'Delhi, India',
+      phone: '+91 11 2345-6789',
       email: 'contact@techzone.com',
       status: 'active',
       joinDate: '2023-01-15',
@@ -32,8 +32,8 @@ const DealerService = () => {
     {
       id: 2,
       name: 'Digital Solutions Hub',
-      location: 'Los Angeles, CA',
-      phone: '+1 (555) 234-5678',
+      location: 'Hyderabad, India',
+      phone: '+91 40 2345-6789',
       email: 'info@digitalhub.com',
       status: 'active',
       joinDate: '2023-03-22',
@@ -42,12 +42,32 @@ const DealerService = () => {
     {
       id: 3,
       name: 'Metro Electronics',
-      location: 'Chicago, IL',
-      phone: '+1 (555) 345-6789',
+      location: 'Kochi, India',
+      phone: '+91 484 234-5678',
       email: 'sales@metroelec.com',
       status: 'pending',
       joinDate: '2024-01-10',
       totalOrders: 23
+    },
+    {
+      id: 4,
+      name: 'Smart Tech Solutions',
+      location: 'Chandigarh, India',
+      phone: '+91 172 234-5678',
+      email: 'info@smarttech.com',
+      status: 'active',
+      joinDate: '2023-08-12',
+      totalOrders: 67
+    },
+    {
+      id: 5,
+      name: 'Digital Innovation Center',
+      location: 'Lucknow, India',
+      phone: '+91 522 234-5678',
+      email: 'contact@digitalinnovation.com',
+      status: 'active',
+      joinDate: '2023-11-05',
+      totalOrders: 45
     }
   ];
 
